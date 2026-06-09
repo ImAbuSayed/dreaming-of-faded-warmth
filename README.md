@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-faded-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dreaming Of Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-faded-warmth/) |
+| **Get License** | [Secure Licensing Rights for Dreaming Of Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-faded-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d5ace0570873e2fb7fbaf6fbcdc71fe01bc3948bf63c3d7c9ded0e8a7fcaf792` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
