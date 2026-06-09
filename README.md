@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-faded-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dreaming Of Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-faded-warmth/) |
+| **Get License** | [Get a Licensing Quote for Dreaming Of Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-faded-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There is a fire burning low tonight
+> I am drawing closer to your gentle light
+> Got a feeling we should take it slow
+> Let the warmth of the embers glow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
